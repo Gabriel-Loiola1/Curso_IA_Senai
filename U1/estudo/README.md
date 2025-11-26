@@ -1,0 +1,1 @@
+Criação de um modelo preditivo baseado em um cenário de aprovação de cartão de crédito para um cliente de um banco, com fins de estudo.
